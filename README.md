@@ -14,7 +14,9 @@ and learning how things work behind the screen.
 
 <br>
 
-<a href="https://www.linkedin.com/in/mishthi-garg-438bb033/">
+<a href="www.linkedin.com/in/
+mishthi-garg-438bb0336
+">
 <img src="https://img.shields.io/badge/LinkedIn-B79C8A?style=for-the-badge&logo=linkedin&logoColor=FFF9F5"/>
 </a>
 &nbsp;
