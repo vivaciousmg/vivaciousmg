@@ -1,124 +1,107 @@
 <div align="center">
 
-# 𝓜𝓲𝓼𝓱𝓽𝓱𝓲 𝓖𝓪𝓻𝓰
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F3E9DF&height=180&section=header&text=Mishthi%20Garg&fontSize=48&fontColor=6B5145&animation=fadeIn&fontAlignY=55"/>
 
-### `CSE Student` · `Developer` · `Problem Solver`
+### ˚₊‧꒰ა **CSE Student · Developer · Problem Solver** ໒꒱ ‧₊˚
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=650&lines=Building+things+that+make+me+curious+%E2%9C%A8;Java+%7C+React+%7C+SQL;Exploring+AWS+%26+AI;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=3000&pause=1000&color=9B7B6D&center=true&vCenter=true&width=650&lines=Building+with+curiosity+%E2%9C%A6;Java+%7C+React+%7C+SQL;Exploring+AWS+%26+AI;Learning+by+building+%26+solving" />
 
-</div>
+<br>
 
----
+**Hi, I'm Mishthi.**  
+I enjoy turning ideas into projects, solving problems,  
+and learning how things work behind the screen.
 
-## ✦ about me
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  👩🏻‍💻  CSE student who loves building things │
-│      and figuring out how they work.         │
-│                                              │
-│  💻  Java · React · SQL                      │
-│  🧩  DSA & problem solving                   │
-│  ☁️  AWS & cloud — currently exploring       │
-│  🤖  AI-powered applications                 │
-│                                              │
-│  currently → learning by building 🚀         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-## ✧ what i'm into
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Development
-Building clean, useful web experiences with **React** and exploring the backend side of development.
-
-</td>
-<td width="50%">
-
-### 🧩 Problem Solving
-Currently strengthening my **DSA + Java** skills and solving problems consistently.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ Cloud
-Exploring **AWS** and learning how real applications are deployed, scaled and connected.
-
-</td>
-<td width="50%">
-
-### 🤖 AI
-Interested in combining **AI + web development** to build practical applications.
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ tech i work with
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![AWS](https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-</div>
-
----
-
-## 📈 a little progress
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=vivaciousmg&show_icons=true&theme=transparent&hide_border=true&title_color=8B7CF6&icon_color=8B7CF6&text_color=9CA3AF&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivaciousmg&layout=compact&theme=transparent&hide_border=true&title_color=8B7CF6&text_color=9CA3AF" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=vivaciousmg&theme=transparent&hide_border=true&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" />
-
-</div>
-
----
-
-## 🌙 currently
-
-```text
-learning      → AWS + backend fundamentals
-building      → AI × Web projects
-solving       → DSA in Java
-exploring     → cloud & real-world systems
-```
-
----
-
-<div align="center">
-
-### let's build something interesting. ✦
+<br>
 
 <a href="https://www.linkedin.com/in/mishthi-garg-438bb033/">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=8B7CF6"/>
+<img src="https://img.shields.io/badge/LinkedIn-B79C8A?style=for-the-badge&logo=linkedin&logoColor=FFF9F5"/>
 </a>
+&nbsp;
+<a href="https://github.com/vivaciousmg">
+<img src="https://img.shields.io/badge/GitHub-6B5145?style=for-the-badge&logo=github&logoColor=FFF9F5"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤎 01 · My Toolkit
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,js,react,html,css,mysql,aws&theme=light"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vivaciousmg&style=flat-square&color=8B7CF6&label=visitors"/>
+<img src="https://img.shields.io/badge/Java-8C6F61?style=flat-square&logo=openjdk&logoColor=FFF9F5"/>
+<img src="https://img.shields.io/badge/JavaScript-B79C8A?style=flat-square&logo=javascript&logoColor=FFF9F5"/>
+<img src="https://img.shields.io/badge/React-A88978?style=flat-square&logo=react&logoColor=FFF9F5"/>
+<img src="https://img.shields.io/badge/SQL-9B7B6D?style=flat-square&logo=mysql&logoColor=FFF9F5"/>
+<img src="https://img.shields.io/badge/AWS-6B5145?style=flat-square&logo=amazonwebservices&logoColor=FFF9F5"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🌷 02 · What I'm Exploring
+
+<br>
+
+| 🤎 | 🌿 | ☁️ | ✦ |
+|:---:|:---:|:---:|:---:|
+| **DSA** | **Web Development** | **AWS & Cloud** | **AI** |
+| Problem Solving | React & Backend | Cloud Technologies | AI Applications |
+
+</div>
+
+---
+
+<div align="center">
+
+## ✧ 03 · GitHub Journey
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=vivaciousmg&show_icons=true&theme=default&hide_border=true&bg_color=F8F1EB&title_color=765B50&icon_color=B08D7D&text_color=6B5145&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivaciousmg&layout=compact&theme=default&hide_border=true&bg_color=F8F1EB&title_color=765B50&text_color=6B5145&include_all_commits=true&count_private=true" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=vivaciousmg&theme=default&hide_border=true&background=F8F1EB&ring=B08D7D&fire=9B7B6D&currStreakLabel=765B50&sideLabels=765B50&dates=9B7B6D"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 04 · Currently
+
+<br>
+
+**Learning** &nbsp; → &nbsp; AWS + Backend  
+**Building** &nbsp; → &nbsp; AI × Web Projects  
+**Solving** &nbsp; → &nbsp; DSA in Java  
+**Exploring** &nbsp; → &nbsp; Cloud & Real-World Systems
+
+<br><br>
+
+> *learning something new, one commit at a time.* ♡
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vivaciousmg&style=flat-square&color=B79C8A&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8D5C8&height=100&section=footer"/>
+
+<!-- Made with curiosity ♡ -->
